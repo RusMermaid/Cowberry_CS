@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cowberry_CS", "Cowberry_CS.csproj", "{AA2A8131-EAA8-4C5F-B0CA-8E0E8AB6543B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cowberry_ClassLibrary", "..\Cowberry_ClassLibrary\Cowberry_ClassLibrary\Cowberry_ClassLibrary.csproj", "{FB1547EE-EC07-4061-B210-E09BD0E91384}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA2A8131-EAA8-4C5F-B0CA-8E0E8AB6543B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA2A8131-EAA8-4C5F-B0CA-8E0E8AB6543B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA2A8131-EAA8-4C5F-B0CA-8E0E8AB6543B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA2A8131-EAA8-4C5F-B0CA-8E0E8AB6543B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB1547EE-EC07-4061-B210-E09BD0E91384}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB1547EE-EC07-4061-B210-E09BD0E91384}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB1547EE-EC07-4061-B210-E09BD0E91384}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB1547EE-EC07-4061-B210-E09BD0E91384}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

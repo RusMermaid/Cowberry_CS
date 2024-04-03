@@ -1,0 +1,42 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.1/",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.1": {},
+    ".NETStandard,Version=v2.1/": {
+      "Cowberry_ClassLibrary/1.0.0": {
+        "dependencies": {
+          "System.Drawing.Common": "8.0.3"
+        },
+        "runtime": {
+          "Cowberry_ClassLibrary.dll": {}
+        }
+      },
+      "System.Drawing.Common/8.0.3": {
+        "runtime": {
+          "lib/netstandard2.0/System.Drawing.Common.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.324.11603"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cowberry_ClassLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.Drawing.Common/8.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-oDE9duAtHhxYJM2bsOlZCLBKdorU9DTV1tw7Mlc+VIT7HgwO5ddfOHk/An8C+fAS9oKdmn2PaIA5t1b484uz8g==",
+      "path": "system.drawing.common/8.0.3",
+      "hashPath": "system.drawing.common.8.0.3.nupkg.sha512"
+    }
+  }
+}

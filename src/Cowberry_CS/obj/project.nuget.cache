@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "O25KGjJPcAT7u1F5YmcKFZrvsHN6zu3SgMnwJnru1yy1yRwN+tTfAFTtnxgqF3/9cTkxtDh0sLiuO078NWpcFA==",
+  "success": true,
+  "projectFilePath": "/Users/rus_mermaid/Desktop/Hard_Drive_SSD/Macbook_ProM1_2022/CP_projects/Cowberry_CS/src/Cowberry_CS/Cowberry_CS.csproj",
+  "expectedPackageFiles": [
+    "/Users/rus_mermaid/.nuget/packages/microsoft.win32.systemevents/8.0.0/microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "/Users/rus_mermaid/.nuget/packages/system.drawing.common/8.0.3/system.drawing.common.8.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
